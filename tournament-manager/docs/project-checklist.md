@@ -7,8 +7,13 @@
 - [x] Install dependencies (shadcn/ui, react-router-dom)
 - [x] Set up TypeScript configuration
 - [x] Configure project structure
-- [x] Set up version control
 - [x] Configure build system
+- [ ] Set up version control
+    - [ ] Initialize Git repository
+    - [ ] Create .gitignore
+    - [ ] Create README.md
+    - [ ] Set up branch structure
+    - [ ] Push to GitHub
 
 ### Core Components
 - [x] BaseLayout implementation
